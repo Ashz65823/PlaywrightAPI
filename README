@@ -1,0 +1,14 @@
+Here we have doing following API test
+My learing youtuber repo https://github.com/BakkappaN/MicrosoftD365CRMPlaywrightFramework/blob/main
+
+1. API testing by passing static request from test method - Post [api-post.spec.ts]
+2. API testing by passing static request from json - Post [api-post_usingjson.spec.ts]
+3. API testing by passing dynamic request - Post [api-postDynamic.spec.ts]
+   - 2 extension is required
+     1. npm install @faker-js/faker --save-dev
+     2. npm install --save luxon[Not needed if your using typescript this is for DATE object]
+4. API testing by passing dynamic request from json - POST [api-postDynamicJson.spec.ts]
+   1. We have to add index number in {index-number} to call it dynamically on json
+   2. A diffrent method to be created to call data for dynamic json
+5. API testing for GET operation by passing id in request - GET [api-Get_usingjson.spec.ts]
+6. Query Parameters [query_parameters.spec.ts]

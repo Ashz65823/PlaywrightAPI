@@ -1,0 +1,28 @@
+Responce is {
+  title: 'A Confederacy of Dunces',
+  body: {
+    content: 'Adventure',
+    tags: [ 'The Foundation Series', 'Sherlock Holmes' ]
+  },
+  userId: 4,
+  id: 101
+}
+=====================GET RESPONSE=============================
+{
+  userId: 1,
+  id: 4,
+  title: 'eum et est occaecati',
+  body: 'ullam et saepe reiciendis voluptatem adipisci\n' +
+    'sit amet autem assumenda provident rerum culpa\n' +
+    'quis hic commodi nesciunt rem tenetur doloremque ipsam iure\n' +
+    'quis sunt voluptatem rerum illo velit'
+}
+=======Put API RESPONSE============ {
+  id: 4,
+  title: 'Money',
+  body: {
+    content: 'Life with and without Money',
+    tags: [ 'Love', 'Respect' ]
+  },
+  userId: 5
+}

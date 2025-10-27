@@ -1,0 +1,23 @@
+===========POST API Responce is============ {
+  title: 'Neuromancer',
+  body: {
+    content: 'Biography',
+    tags: [ 'The Prison Healer', 'Thursday Next Series' ]
+  },
+  userId: 4,
+  id: 101
+}
+=====================GET RESPONSE=============================
+{
+  userId: 1,
+  id: 4,
+  title: 'eum et est occaecati',
+  body: 'ullam et saepe reiciendis voluptatem adipisci\n' +
+    'sit amet autem assumenda provident rerum culpa\n' +
+    'quis hic commodi nesciunt rem tenetur doloremque ipsam iure\n' +
+    'quis sunt voluptatem rerum illo velit'
+}
+=======PATCH API RESPONSE============
+{ title: 'Laugh', body: { content: 'LOL ;-)' }, id: 4 }
+===================== DELETE API =========================
+The retun text is OK

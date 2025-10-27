@@ -1,0 +1,6 @@
+Responce is {
+  title: 'Learning API Automation',
+  body: { content: 'Nested JSON example', tags: [ 'postman', 'testing' ] },
+  userId: 1,
+  id: 101
+}

@@ -1,0 +1,9 @@
+Responce is {
+  title: 'Dubliners',
+  body: {
+    content: 'Mythology',
+    tags: [ 'The Arc of a Scythe', 'The Hunger Games' ]
+  },
+  userId: 3,
+  id: 101
+}

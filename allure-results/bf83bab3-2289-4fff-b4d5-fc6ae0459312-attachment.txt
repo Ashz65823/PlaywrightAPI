@@ -1,0 +1,12 @@
+Responce is {
+  title: 'Carmilla',
+  body: {
+    content: 'Detective',
+    tags: [ "The Hitchhiker's Guide to the Galaxy", 'The Dresden Files' ]
+  },
+  userId: 4,
+  id: 101
+}
+=====================GET RESPONSE=============================
+The Title is  Carmilla
+[]
